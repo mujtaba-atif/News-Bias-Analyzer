@@ -8,8 +8,8 @@ A polished, beginner-friendly Python + Streamlit web application that lets you p
 
 | Feature | Detail |
 |---|---|
-| **Dynamic article inputs** | Add or remove article slots with one click; no fixed limit |
-| **Load Sample Data** | Instant demo with two pre-loaded articles on minimum wage |
+| **Dynamic article inputs** | Add or remove article slots with one click; |
+| **Load Sample Data** | Instant demo with three pre-loaded articles on minimum wage |
 | **Sentiment Analysis** | TextBlob polarity score (−1 to +1) and subjectivity score |
 | **Tone Analysis** | Groq describes writing style, objectivity level, and emotional intensity |
 | **Loaded Language** | Groq identifies emotionally charged or politically biased words/phrases |
