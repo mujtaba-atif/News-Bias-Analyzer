@@ -32,8 +32,6 @@ News Bias Analyzer/
 ├── requirements.txt    ← Python dependencies
 ├── .gitignore          ← Keeps .env and caches out of git
 ├── README.md           ← This file
-├── project_report.md   ← Detailed project write-up
-└── ai_usage_report.md  ← AI tool usage documentation
 ```
 
 ---
